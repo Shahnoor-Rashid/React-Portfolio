@@ -8,7 +8,7 @@ export default function Resume() {
       </header>
       <div className="content">
         <p>
-          Download my <a href="/Resume/ShahnoorResume.pdf">resume</a>
+          Download my <a href="../../../public/Resume/ShahnoorResume.pdf">resume</a>
         </p>
         <h5>Front-end Proficiencies</h5>
         <ul>
