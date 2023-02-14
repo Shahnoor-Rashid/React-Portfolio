@@ -62,19 +62,19 @@ function ContactForm() {
     // Preventing the default behavior of the form submit (which is to refresh the page)
     const name = e.target.name;
    
-    if (name=="fullName" && isEmpty(fullName)) {
+    if (name==="fullName" && isEmpty(fullName)) {
       setErrorMessage('Name is required');
       return;
     } 
-    if (name=="email" && isEmpty(email)) {
+    if (name==="email" && isEmpty(email)) {
       setErrorMessage('Email is required');
       return;
     }    
-    if (name=="email" && !validateEmail(email)) {
+    if (name==="email" && !validateEmail(email)) {
       setErrorMessage('Your email is Invalid');
       return;
     }
-    if (name=="message" && isEmpty(message)) {
+    if (name==="message" && isEmpty(message)) {
       setErrorMessage('Message is required');
       return;
     }
