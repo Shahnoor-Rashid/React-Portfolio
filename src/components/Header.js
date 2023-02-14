@@ -14,7 +14,7 @@ function Header() {
   return (
     <>
       <header className="header">
-        <div className="header-text">Shahnoor Rasheed</div>
+        <div className="header-text">Shahnoor Rashid</div>
         <Nav currentPage={currentPage} handlePageChange={handlePageChange}/>
       </header>    
       <Navigation  currentPage={currentPage} />
