@@ -43,3 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ![Screenshot1](./src/images/Screenshot%201.png)
 ![Screenshot2](./src/images/Screenshot2.png)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
