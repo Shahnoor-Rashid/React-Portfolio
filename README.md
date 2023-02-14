@@ -41,4 +41,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Screenshot
 
-![Screenshot1](./src/images/Screenshot%202023-02-14%20at%2011.17.53.png)
+![Screenshot1](./src/images/Screenshot%201.png)
+![Screenshot2](./src/images/Screenshot2.png)
