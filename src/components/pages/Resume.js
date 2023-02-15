@@ -8,7 +8,7 @@ export default function Resume() {
       </header>
       <div className="content">
         <p>
-          Download my<a href="https://github.com/Shahnoor-Rashid/React-Portfolio/raw/main/Public/Resume/ShahnoorResume.pdf" >Resume</a>
+          Download my <a href="https://github.com/Shahnoor-Rashid/React-Portfolio/raw/main/Public/Resume/ShahnoorResume.pdf" >Resume</a>
           </p>
         <h5>Front-end Proficiencies</h5>
         <ul>
