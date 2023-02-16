@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.82dfcee8.css",
+    "main.js": "/React-Portfolio/static/js/main.dcf6916d.js",
+    "static/media/profile_pic_shahnoor.jpeg": "/React-Portfolio/static/media/profile_pic_shahnoor.bb9b733d8f71533281a5.jpeg",
+    "static/media/meal_planner.jpeg": "/React-Portfolio/static/media/meal_planner.f8866a4821c220bb8345.jpeg",
+    "static/media/weather_app.jpg": "/React-Portfolio/static/media/weather_app.274f86b8b6e0b4fe0bf1.jpg",
+    "static/media/my_team.png": "/React-Portfolio/static/media/my_team.16c7785017cafb3ada4b.png",
+    "static/media/planner_app.png": "/React-Portfolio/static/media/planner_app.0557acebd89e8607bc9e.png",
+    "static/media/timed_quiz.png": "/React-Portfolio/static/media/timed_quiz.dc32c4f03e8f9989bf2c.png",
+    "static/media/password_generator.jpeg": "/React-Portfolio/static/media/password_generator.e49de97d35f63dd90c5e.jpeg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.82dfcee8.css.map": "/React-Portfolio/static/css/main.82dfcee8.css.map",
+    "main.dcf6916d.js.map": "/React-Portfolio/static/js/main.dcf6916d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82dfcee8.css",
+    "static/js/main.dcf6916d.js"
+  ]
+}
